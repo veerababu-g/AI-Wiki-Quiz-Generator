@@ -1,0 +1,5 @@
+{
+  "name": "AI Wiki Quiz Generator",
+  "description": "An application that transforms Wikipedia articles into engaging quizzes using AI. Users can input a Wikipedia URL to generate a quiz, view the results, and browse a history of previously generated quizzes.",
+  "requestFramePermissions": []
+}
